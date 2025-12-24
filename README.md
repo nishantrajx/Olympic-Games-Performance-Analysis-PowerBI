@@ -1,4 +1,4 @@
-# Olympic-Games-Performance-Analysis-PowerBI
+
 # Olympic Games Performance Analysis using Power BI
 
 ## 📌 Project Overview
